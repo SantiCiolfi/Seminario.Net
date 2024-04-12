@@ -1,0 +1,14 @@
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\bin\Debug\net8.0\P5Ej7.exe
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\bin\Debug\net8.0\P5Ej7.deps.json
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\bin\Debug\net8.0\P5Ej7.runtimeconfig.json
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\bin\Debug\net8.0\P5Ej7.dll
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\bin\Debug\net8.0\P5Ej7.pdb
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\P5Ej7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\P5Ej7.AssemblyInfoInputs.cache
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\P5Ej7.AssemblyInfo.cs
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\P5Ej7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\P5Ej7.dll
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\refint\P5Ej7.dll
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\P5Ej7.pdb
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\P5Ej7.genruntimeconfig.cache
+C:\Users\Usuario\ProyectosDotnet\P5Ej7\obj\Debug\net8.0\ref\P5Ej7.dll
